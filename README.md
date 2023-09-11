@@ -43,8 +43,7 @@
 
 ## 🤝 Channel
 🙋 [포트폴리오]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🆃 [기술 블로그]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🚀 [로켓펀치]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🆃 [기술 블로그](https://quick-makemake-092.notion.site/e4607f603f0341a996d3915e1cce9bac?v=dbdf9e3af83b433dbcc3b51e9520b67d&pvs=4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
