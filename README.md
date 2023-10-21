@@ -19,7 +19,6 @@
 
 
 ## 🤩 Strength
-
 * __다양한 경험을__ 가진 개발자
 * 지속적인 __기록, 정리, 문서화__
 * __목표 달성__ 을 위한 몰입
@@ -30,6 +29,7 @@
 ## 🤝 Channel
 🙋 [포트폴리오](https://www.canva.com/design/DAFuIniiQXg/Oz6iY9weECmw0aW0-NLzHQ/edit?utm_content=DAFuIniiQXg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🆃 [필기장](https://quick-makemake-092.notion.site/e4607f603f0341a996d3915e1cce9bac?v=dbdf9e3af83b433dbcc3b51e9520b67d&pvs=4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
