@@ -27,7 +27,7 @@
 
 
 ## 🤝 Channel
-🙋 [포트폴리오](https://www.canva.com/design/DAFuIniiQXg/Oz6iY9weECmw0aW0-NLzHQ/edit?utm_content=DAFuIniiQXg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🙋 [포트폴리오]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🆃 [필기장](https://quick-makemake-092.notion.site/e4607f603f0341a996d3915e1cce9bac?v=dbdf9e3af83b433dbcc3b51e9520b67d&pvs=4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
