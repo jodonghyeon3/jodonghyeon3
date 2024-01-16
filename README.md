@@ -25,10 +25,9 @@
 * __고객 중심__ 프로그래밍 설계
 
 
-
 ## 🤝 Channel
 🙋 [포트폴리오]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🆃 [필기장](https://quick-makemake-092.notion.site/e4607f603f0341a996d3915e1cce9bac?v=dbdf9e3af83b433dbcc3b51e9520b67d&pvs=4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🆃 [필기장]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
