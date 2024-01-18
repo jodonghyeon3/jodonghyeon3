@@ -18,13 +18,6 @@
 #
 
 
-## 🤩 Strength
-* __다양한 경험을__ 가진 개발자
-* 지속적인 __기록, 정리, 문서화__
-* __목표 달성__ 을 위한 몰입
-* __고객 중심__ 프로그래밍 설계
-
-
 ## 🤝 Channel
 🙋 [포트폴리오]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🆃 [필기장]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
